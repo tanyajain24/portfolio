@@ -17,7 +17,7 @@ export default function About() {
           id="aboutDescription"
           className=" leading-loose text-white lg:text-[1.1rem] md:text-[1rem] lg:w-[800px] md:w-[600px] sm:w-[500px]"
         >
-          Hi! Myself Tanya, CSE 3rd year, from IIT (BHU) Varanasi.
+          Hi! Myself Tanya, Electrical 3rd year, from IIT (BHU) Varanasi.
           <br />
           I do Competitive programming. I like to learn new technologies, languages and cool stuff. I love to develop new things which help individuals practically.
           <br />
